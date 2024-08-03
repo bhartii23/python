@@ -1,0 +1,11 @@
+a="hello world"
+print(len(a))
+print(a.count("o"))
+print(a.find("l"))
+print(a.upper())
+print(a.lower())
+print(a.swapcase())
+print(a.title())
+print(a.capitalize())
+print(a[::-1])
+print(a.replace("world", "bharti"))
