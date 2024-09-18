@@ -1,0 +1,1 @@
+Split the 2-D array into three 2-D arrays along rows.
